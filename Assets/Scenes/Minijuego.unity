@@ -1849,7 +1849,7 @@ GameObject:
   - component: {fileID: 1365638406}
   - component: {fileID: 1365638405}
   m_Layer: 5
-  m_Name: play
+  m_Name: back
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1895,7 +1895,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Play
+  m_text: 'Back
 
 '
   m_isRightToLeft: 0
@@ -2124,7 +2124,7 @@ GameObject:
   - component: {fileID: 1562592292}
   - component: {fileID: 1562592291}
   m_Layer: 5
-  m_Name: Play
+  m_Name: Back
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2197,7 +2197,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1074987679}
         m_TargetAssemblyTypeName: MenuEscenas, Assembly-CSharp
-        m_MethodName: Play
+        m_MethodName: Back
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/AlvarezdelCastillo_Teran_HectorFrancisco_RA_Examen.unity
     guid: ef7b1ba28371a824bb996e576f361bba
+  - enabled: 1
+    path: Assets/Scenes/Tamagotchi_RA_Examen.unity
+    guid: da242f666859dbe4b8b0c5b924ffb13b
+  - enabled: 1
+    path: Assets/Scenes/Minijuego.unity
+    guid: 7fb71951e00622d4391b9afe1fcce979
   m_configObjects: {}
